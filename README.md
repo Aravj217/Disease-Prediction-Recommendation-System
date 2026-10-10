@@ -82,6 +82,9 @@ The system uses comprehensive medical datasets containing:
    - Exercise plans
    - Preventive precautions
 
+## 🌍 Website Link
+ https://disease-prediction-system-beta.vercel.app/
+
 
 
 ## 📸 Screenshots
