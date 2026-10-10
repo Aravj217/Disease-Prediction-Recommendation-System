@@ -50,7 +50,7 @@ The system uses comprehensive medical datasets containing:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sohamvsonar/Disease-Prediction-and-Medical-Recommendation-System.git
+   git clone https://github.com/Aravj217/Disease-Prediction-Recommendation-System.git
    cd Disease-Prediction-and-Medical-Recommendation-System
    ```
 
